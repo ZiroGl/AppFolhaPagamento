@@ -20,19 +20,19 @@ O *AppFolhaPagamento* permite ao usuário realizar o calculo da do seu sálario 
 ## 🛠️ Como Rodar o Projeto
 
 Siga os passos abaixo para rodar o projeto localmente:
-
+```
 1. Clone este repositório:
 
     bash
     git clone https://github.com/ZiroGl/AppFolhaPagamento.git
-
+```
     
 
 2. Abra o projeto no Android Studio.
 
 3. Compile e execute o projeto em um emulador ou dispositivo físico.
 
-'''
+```
 ## 📂 Estrutura do Projeto
 
 bash
@@ -55,7 +55,7 @@ bash
 │       ├── colors.xml             # Cores definidas no projeto
 │   └── build.gradle               # Configuração do Gradle
 └── README.md                      # Este arquivo
-'''
+```
 
 
  
