@@ -32,7 +32,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 3. Compile e execute o projeto em um emulador ou dispositivo físico.
 
-
+'''
 ## 📂 Estrutura do Projeto
 
 bash
@@ -55,7 +55,7 @@ bash
 │       ├── colors.xml             # Cores definidas no projeto
 │   └── build.gradle               # Configuração do Gradle
 └── README.md                      # Este arquivo
-
+'''
 
 
  
