@@ -39,9 +39,9 @@ bash
 ├── app
 │   ├── src
 │   │   ├── main
-│   │   │   ├── java/com/example/imccalculator
+│   │   │   ├── java/br/ulbra/AppFolhaP
 │   │   │  
-│   ├── MainActivity.java         #Atividade principal 
+│   ├── MainActivity.java
 │   │   │   ├──res
 │   │   │  
 │   ├── layout
