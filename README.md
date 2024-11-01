@@ -74,6 +74,9 @@ Na tela principal, o usuário ira encontrar os campos para inserir seus dados e 
 
 <img src="https://github.com/user-attachments/assets/1b180d6c-cbbb-48ae-b066-ceb9e1b43eb1" width="260" height="500"/>
 
+# 📲 APK do APP 
+
+<a href="https://github.com/ZiroGl/AppFolhaPagamento/blob/main/AppFolhaP.apk"> Download APK </a>
 
 # 📄 Licença
 
